@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Machine Learning Classification</title>
+</head>
+
+<body>
+ <div class="login">
+	<h1>Readmission Check</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('readmission')}}" method="POST">
+    	<input type="file" name=".csv file as input " placeholder="cpath" required="required" accept=".csv"/>
+       
+        <button type="submit" class="btn btn-primary btn-block btn-large">GO!</button>
+    
+    </form>
+
+   <br>
+   <br>
+   "{{ final_class }}"
+
+ </div>
+
+
+</body>
+</html>
+

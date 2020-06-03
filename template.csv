@@ -1,0 +1,2 @@
+age,time_in_hospital,num_lab_procedures,num_medications,number_emergency,number_inpatient,diag_1,diag_2,diag_3,number_diagnoses,max_glu_serum,A1Cresult,metformin,repaglinide,nateglinide,chlorpropamide,glimepiride,glipizide,glyburide,pioglitazone,acarbose,miglitol,tolazamide,insulin,glyburide-metformin,glipizide-metformin,change,diabetesMed
+[40-50),4,39,18,0,0,414,411,250.01,8,None,None,No,No,No,No,No,No,No,No,No,No,No,No,Steady,No,No,Yes
